@@ -28,7 +28,6 @@ body{
     box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 121,.288)
 }
 
-
 .btnContainer{
     position:absolute;
     margin-top: 130px;
@@ -44,12 +43,6 @@ body{
     transition: ease-out 0.3s;
     outline: none;
 }
-
-
-
-
-
-
 
 .contador{
    position: absolute;
